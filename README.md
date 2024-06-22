@@ -1,0 +1,1 @@
+Just a repository that stores my work on The Odin Project's Recipe lesson, in the Foundations course.
