@@ -1,0 +1,20 @@
+h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+img {
+    display: block; 
+    margin: auto auto;
+    border: 5px solid mintcream; 
+}
+body {
+    border: 5px inset chocolate;
+    background-color: green;
+    padding: 30px;
+    color: white;
+}
+ul,
+ol {
+    padding: 5px;
+    margin: 10px;
+}
